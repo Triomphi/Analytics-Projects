@@ -1,2 +1,4 @@
-# DA.MAT.AB.6 <br>
-Find the google docs [here](https://docs.google.com/document/d/1kT7GqbW4PCZoK9MOVoj0PjdLfrj5hFZFpbxJH8gcmhA/edit?usp=sharing)
+A fast-food chain plans to add a new item to its menu. However, they are still undecided between three possible marketing campaigns for promoting the new product. In order to determine which promotion has the greatest effect on sales, the new item is introduced at locations in several randomly selected markets. A different promotion is used at each location, and the weekly sales of the new item are recorded for the first four weeks.   
+**This project evaluates A/B testing results and decide which marketing strategy works the best**, using the Fast Food Marketing Campaign dataset from [Kaggle](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test).  
+  
+Final output from A/B Testing is [here](https://docs.google.com/document/d/1kT7GqbW4PCZoK9MOVoj0PjdLfrj5hFZFpbxJH8gcmhA/edit?usp=sharing)
