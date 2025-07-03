@@ -5,7 +5,7 @@ This repository contains some of the projects done during my Data Analytics Cour
   
 2. **Advanced SQL:** These set of queries explore the [Adventureworks 2005 database](https://drive.google.com/file/d/1-Qsnn3bg0_PYgY5kKJOUDG8xdKLvOLPK/view) to give an overvew of the customers at this company and report slaes numbers. This projects tests understanding of Advanced SQL concepts.  
   
-3. **CLV & RFM Analysis:**   
+3. **CLV & RFM Analysis:** This project explores Customer Lifetime Value (CLV) and cohort-based revenue trends using event-level user data. It includes both a traditional CLV calculation and a refined 12-week cohort analysis to provide deeper insights into customer behavior and marketing sustainability.
   
 4. **Coronary Heart Disease Risk:** The primary objective of this project is to develop a predictive model to assess the 10-year risk of coronary heart disease (CHD) in individuals based on a combination of demographic, behavioral, and medical factors. The dataset can be found on [Kaggle]()
   
