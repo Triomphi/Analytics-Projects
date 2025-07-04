@@ -1,5 +1,5 @@
-### Project Details
-Full details about the project can be found in the project description file named [DA_PY_2_5.ipynb](https://github.com/TuringCollegeSubmissions/trogeh-PYDA.2.5/blob/main/DA_PY_2_5.ipynb) in this repository
+### Key Analysis Question
+What makes a hit song on Spotify?
 
 ### About Dataset
 This dataset contains the Top 50 most streamed tracks on Spotify in 2020. You can find the dataset on [Kaggle](https://www.kaggle.com/datasets/atillacolak/top-50-spotify-tracks-2020)
