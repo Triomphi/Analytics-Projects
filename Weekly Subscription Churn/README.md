@@ -1,8 +1,8 @@
 ## Cohort Analysis Task Description
 
-Provide a weekly subscriptions data that shows how many subscribers started their subscription in a particular week and how many remain active in the following 6 weeks.
+This projeect provides a weekly subscriptions data that shows how many subscribers to an e-learning platform started their subscription in a particular week and how many remain active in the following 6 weeks.
 
-Your end result should show weekly retention cohorts for each week of data available in the dataset and their retention from week 0 to week 6. Assume that you are doing this analysis on 2021-02-07.
+The final result shows weekly retention cohorts for each week of data available in the dataset and their retention from week 0 to week 6. _Assuming that I was doing this analysis on 2021-02-07._
 
 ## Steps
 * Step 1: Retrieve the weekly cohorts and number of retained subscribers from week 0 to week 6 for each cohort. [View SQL query](https://github.com/TuringCollegeSubmissions/trogeh-MAT2.1.3/blob/main/Retained%20subscribers.sql)
